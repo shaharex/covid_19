@@ -1,4 +1,4 @@
-import 'package:covid_19/constant.dart';
+import 'package:covid_19/others/constant.dart';
 import 'package:covid_19/widgets/info_screen.dart';
 import 'package:flutter/material.dart';
 
